@@ -62,7 +62,7 @@ body{
 }
 
 .option {
-    margin-top: 45px;
+    margin-top: 30px;
     display: flex;
     flex-direction: column;
     gap: 100px;
@@ -73,11 +73,11 @@ body{
 .option button {
     width: 70%;
     position: center;
-    padding: 10px;
+    padding: 8px;
     background: #f1f50a;
     border: 1px solid black;
-    border-radius: 10px;
-    font-size: 16px;
+    border-radius: 8px;
+    font-size: 18px;
     display: flex;
     align-items: center;
     justify-content: center;
