@@ -62,7 +62,7 @@ body{
 }
 
 .option {
-    margin-top: 30px;
+    margin-top: 20px;
     display: flex;
     flex-direction: column;
     gap: 100px;
@@ -87,7 +87,7 @@ body{
 
 .option button:hover{
     transform: translateY(-1.3px);
-    color: #05b4e0;
+    color: #e972df;
 }
 
 .container.active .login-section{
@@ -103,3 +103,4 @@ body{
 .container.active .signup-section header{
     opacity: 0.6;
 }
+
